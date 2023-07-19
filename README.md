@@ -6,6 +6,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+## Routes
+
+/client
+/stretch
+/client-stretch
+
+### `npm install`
+
+Download the node modules for proyect running sucess.
+
 ### `npm start`
 
 Runs the app in the development mode.\
